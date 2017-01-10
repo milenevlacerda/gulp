@@ -46,12 +46,12 @@ header {
    color: #003366;
 }
 
-.busca, 
+.busca,
 .menu-departamentos {
   background-color: #dcdcdc;
   font-weight: bold;
   text-transform: uppercase;
-  
+
   margin-right: 10px;
   width: 230px;
 }
@@ -73,7 +73,7 @@ header {
   text-decoration: none;
 }
 
-.busca, 
+.busca,
 .menu-departamentos {
   float: left;
 }
@@ -174,7 +174,7 @@ footer .container {
   /* image replacement */
   color: transparent;
   display: block;
-  text-indent: -9999px;  
+  text-indent: -9999px;
 }
 
 .social a[href*="facebook.com"] {
